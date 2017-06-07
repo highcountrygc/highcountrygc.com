@@ -1,0 +1,26 @@
+.intro-header .page-heading h1 {
+  font-size: 24px;
+}
+
+.br-on-mobile {
+  display: none;
+}
+
+.navbar-toggle {
+  margin-right: 8px;
+}
+
+/* Mobile-specific things */
+@media only screen and (max-width: 768px) {
+  .br-on-mobile {
+    display: inherit;
+  }
+
+  .navbar-custom {
+    min-height: 65px;
+  }
+}
+
+footer {
+  padding: 0 0 30px 0;
+}

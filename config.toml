@@ -1,0 +1,11 @@
+baseURL = "http://highcountrygc.com/"
+languageCode = "en-us"
+title = "High Country General Contractors"
+
+[params]
+  titlePart1 = "High Country"
+  titlePart2 = "General Contractors"
+  subTitle = "Bringing South Florida construction to the High Country"
+  bigimg =[{src = "/img/logo.png", desc = "High Country GC logo"}]
+    # desc: "High Country GC logo"
+    # src: "static/img/logo.png",
