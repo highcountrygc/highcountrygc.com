@@ -6,6 +6,14 @@ title = "High Country General Contractors"
   titlePart1 = "High Country"
   titlePart2 = "General Contractors"
   subTitle = "Bringing South Florida construction to the High Country"
-  bigimg =[{src = "/img/logo.png", desc = "High Country GC logo"}]
-    # desc: "High Country GC logo"
-    # src: "static/img/logo.png",
+  logo = "/img/logo.png"
+
+[[menu.main]]
+  name = "Contact"
+  url = "page/contact"
+  weight = 1
+
+[[menu.main]]
+  name = "About"
+  url = "page/about"
+  weight = 2

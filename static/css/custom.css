@@ -2,12 +2,35 @@
   font-size: 24px;
 }
 
+h2 {
+  font-size: 20px;
+}
+
+h3 {
+  font-size: 18px;
+}
+
 .br-on-mobile {
   display: none;
 }
 
 .navbar-toggle {
   margin-right: 8px;
+}
+
+.post-meta {
+  display: none !important;
+}
+
+.container[role="main"] {
+  margin-top: -30px;
+}
+
+.navbar-custom .avatar-container .avatar-img-border,
+.navbar-custom .avatar-container .avatar-img {
+  border: none;
+  border-radius: 0;
+  box-shadow: none;
 }
 
 /* Mobile-specific things */
