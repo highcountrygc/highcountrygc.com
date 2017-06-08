@@ -1,10 +1,9 @@
 baseURL = "http://highcountrygc.com/"
 languageCode = "en-us"
-# See nav.html for this title with carefully placed &nbsp;s.
 title = "High Country General Contractors"
 
 [params]
-  subTitle = "Bringing South Florida construction to the High Country"
+  # subTitle = "Bringing South Florida construction to the High Country"
   logo = "/img/logo_side.png"
 
 [[menu.main]]
@@ -14,7 +13,7 @@ title = "High Country General Contractors"
 
 [[menu.main]]
   name = "Portfolio"
-  url = "post/"
+  url = "project/"
   weight = 2
 
 [[menu.main]]
