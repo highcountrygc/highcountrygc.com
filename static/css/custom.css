@@ -54,6 +54,8 @@ nav > .container-fluid {
 nav > .container-fluid > div {
   display: inline-block;
   float: right;
+  padding-top: 6px;
+  margin-bottom: -6px;
 }
 
 .navbar-brand > img {
@@ -80,6 +82,13 @@ nav > .container-fluid > div {
 
 .container[role="main"] {
   margin-top: -30px;
+}
+
+/* Contact Info */
+.contact > h2, .contact > p {
+  display: inline-block;
+  padding: 0;
+  margin: 5px 0;
 }
 
 /* Footer */

@@ -1,6 +1,6 @@
 +++
 date = "2017-06-08T16:41:04-04:00"
-draft = true
+draft = false
 title = "index"
 
 +++
