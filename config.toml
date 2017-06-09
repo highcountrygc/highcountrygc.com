@@ -6,6 +6,7 @@ publishDir = "docs"
 [params]
   # subTitle = "Bringing South Florida construction to the High Country"
   logo = "/img/logo_side.png"
+  favicon = "/favicon.ico"
 
 [[menu.main]]
   name = "Home"
