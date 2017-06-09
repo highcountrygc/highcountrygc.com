@@ -2,42 +2,42 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects on High Country General Contractors</title>
-    <link>http://highcountrygc.com/project/</link>
+    <link>https://test.highcountrygc.com/project/</link>
     <description>Recent content in Projects on High Country General Contractors</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 07 Jun 2017 18:11:12 -0400</lastBuildDate>
     
-	<atom:link href="http://highcountrygc.com/project/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://test.highcountrygc.com/project/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>commercial roof</title>
-      <link>http://highcountrygc.com/project/commercial-roof/</link>
+      <link>https://test.highcountrygc.com/project/commercial-roof/</link>
       <pubDate>Wed, 07 Jun 2017 18:11:12 -0400</pubDate>
       
-      <guid>http://highcountrygc.com/project/commercial-roof/</guid>
+      <guid>https://test.highcountrygc.com/project/commercial-roof/</guid>
       <description></description>
     </item>
     
     <item>
       <title>house</title>
-      <link>http://highcountrygc.com/project/house/</link>
+      <link>https://test.highcountrygc.com/project/house/</link>
       <pubDate>Wed, 07 Jun 2017 18:11:01 -0400</pubDate>
       
-      <guid>http://highcountrygc.com/project/house/</guid>
+      <guid>https://test.highcountrygc.com/project/house/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Residential Apartment</title>
-      <link>http://highcountrygc.com/project/apartment/</link>
+      <link>https://test.highcountrygc.com/project/apartment/</link>
       <pubDate>Wed, 07 Jun 2017 18:10:55 -0400</pubDate>
       
-      <guid>http://highcountrygc.com/project/apartment/</guid>
+      <guid>https://test.highcountrygc.com/project/apartment/</guid>
       <description>&lt;h2 id=&#34;600-sqrt-designed-for-a-stunning-view&#34;&gt;600 sqrt, designed for a stunning view&lt;/h2&gt;
 
-&lt;p&gt;&lt;img src=&#34;http://highcountrygc.com/img/apartment.jpg&#34; alt=&#34;The stunning view&#34; /&gt;&lt;/p&gt;</description>
+&lt;p&gt;&lt;img src=&#34;https://test.highcountrygc.com/img/apartment.jpg&#34; alt=&#34;The stunning view&#34; /&gt;&lt;/p&gt;</description>
     </item>
     
   </channel>
