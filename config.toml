@@ -1,6 +1,7 @@
 baseURL = "http://highcountrygc.com/"
 languageCode = "en-us"
 title = "High Country General Contractors"
+publishDir = "docs"
 
 [params]
   # subTitle = "Bringing South Florida construction to the High Country"

@@ -1,0 +1,97 @@
+/* General Styles */
+h2 {
+  font-size: 20px;
+}
+
+h3 {
+  font-size: 18px;
+}
+
+img {
+  max-height: 100%;
+}
+
+/* Navbar */
+.intro-header {
+  margin: 0 0 20px 0;
+}
+
+.intro-header .page-heading h1 {
+  font-size: 24px;
+}
+
+.navbar-custom {
+  padding: 0 0 10px 0;
+  min-height: auto;
+}
+
+.navbar-custom .avatar-container .avatar-img-border,
+.navbar-custom .avatar-container .avatar-img {
+  border: none;
+  border-radius: 0;
+  box-shadow: none;
+}
+
+.navbar-nav {
+  text-align: center;
+}
+
+.nav > li {
+  display: inline-block;
+}
+
+.navbar-brand {
+  height: inherit;
+  max-width: 300px;
+  padding: 0 0 0 15px;
+  height: 100%;
+}
+
+nav > .container-fluid {
+  text-align: center;
+}
+
+nav > .container-fluid > div {
+  display: inline-block;
+  float: right;
+  padding-top: 6px;
+  margin-bottom: -6px;
+}
+
+.navbar-brand > img {
+  height: 50px;
+  padding: 10px 10px 0 10px;
+  transition: all 500ms ease-in-out;
+}
+
+@media screen and (max-width: 590px) {
+  nav > .container-fluid > * {
+    float: none !important;
+    padding: 0;
+  }
+
+  .navbar-custom {
+    padding-bottom: 0;
+  }
+}
+
+/* Main Content */
+.post-meta {
+  display: none !important;
+}
+
+.container[role="main"] {
+  margin-top: -30px;
+}
+
+/* Contact Info */
+.contact > h2, .contact > p {
+  display: inline-block;
+  padding: 0;
+  margin: 5px 0;
+}
+
+/* Footer */
+footer {
+  padding: 0 0 30px 0;
+}
