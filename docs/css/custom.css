@@ -1,4 +1,26 @@
 /* General Styles */
+body {
+  font-family: Georgia, 'Times New Roman', serif;
+}
+
+/* Replace Open Sans with native system font. */
+.post-preview .post-entry,
+.blog-tags,
+.intro-header .page-heading .page-subheading,
+.intro-header .post-heading .post-subheading,
+.intro-header.big-img .img-desc,
+.pager li a,
+h1,h2,h3,h4,h5,h6,
+.main-explain-area,
+.navbar-custom,
+footer .copyright
+{
+  font-family: -apple-system, BlinkMacSystemFont,
+    "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell",
+    "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+}
+
 h2 {
   font-size: 20px;
 }
