@@ -3,6 +3,13 @@ body {
   font-family: Georgia, 'Times New Roman', serif;
 }
 
+.post-preview .post-read-more {
+  float: none !important;
+  text-align: right;
+  display: block;
+  margin-top: -30px;
+}
+
 /* Replace Open Sans with native system font. */
 .post-preview .post-entry,
 .blog-tags,
