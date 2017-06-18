@@ -1,13 +1,12 @@
 +++
 date = "2017-06-07T18:10:55-04:00"
-draft = true
-title = "Residential Apartment"
+draft = false
+title = "Garage Apartment"
 
 +++
 
-## 600 sqrt, designed for a stunning view
+## 850 sqrt one bedroom apartment
 
 ![The stunning view](/img/apartment.jpg)
 
-<!--more-->
-Feast your eyes on this modern-yet-stylish 600 sqft apartment hidden among the trees on top of a mountain.
+A three-car garage and spacious 850 sqft one bedroom apartment. David designed and built this apartment with an open floorplan and a unique garage door layout to improve access from the hillside. David focused on quality, schedule, and cost to get this apartment build on time and on budget.
