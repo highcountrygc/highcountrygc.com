@@ -24,3 +24,8 @@ High Country General Contractors LLC<br>
 345 Sunset Ridge Road<br>
 West Jefferson, NC 28694<br>
 </div>
+
+<!--  Line break -->
+<div></div>
+
+## NC License Number: 78466
