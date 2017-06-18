@@ -1,4 +1,4 @@
-baseURL = "https://test.highcountrygc.com/"
+baseURL = "https://www.highcountrygc.com/"
 languageCode = "en-us"
 title = "High Country General Contractors"
 publishDir = "docs"
